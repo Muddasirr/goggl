@@ -1,0 +1,27 @@
+.order{
+    list-style-type:none;
+    margin:0;
+    padding:0;
+    overflow:hidden;
+    background-color: #092b35;
+    box-shadow: 5px 5px 5px #06303d;
+border-radius: 10px;
+font-family: 'Roboto', sans-serif;
+
+}
+
+.nav{
+    float:left;
+    display:flex;
+    color: #dac6d9;;
+    padding:14px 16px;
+    text-align:center;
+    text-decoration:none;
+}
+
+.pic{
+    margin-top: 10px;
+    display:flex;
+    min-width: 100%;
+    height: 500px;
+}
